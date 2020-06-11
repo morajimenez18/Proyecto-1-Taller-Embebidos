@@ -68,7 +68,7 @@ while True:
 	# Tiempo de espera para que se vea bien
 	time.sleep(0.015)
  
-	# Si ha pulsado la letra s, salimos
+	# Si pulsa s, salimos
 	if key == ord("s"):
 		break
  
